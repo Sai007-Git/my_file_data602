@@ -1,0 +1,3 @@
+I have always been fascinated about how i am getting suggested friends and ads based on my google searches,
+this has led me to take up a machine learning project in my undergrad year where i learned concepts like natural language processing, decision trees, naive bayes etc.
+i have intensely used python while doing the project. This has been my ground zero in my pursuit of learning more about data science.
